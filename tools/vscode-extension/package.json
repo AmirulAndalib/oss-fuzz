@@ -162,12 +162,12 @@
     "@types/vscode": "^1.76.0",
     "@typescript-eslint/eslint-plugin": "^5.53.0",
     "@typescript-eslint/parser": "^5.53.0",
-    "@vscode/test-electron": "^2.2.3",
+    "@vscode/test-electron": "^2.5.2",
     "eslint": "^8.34.0",
     "glob": "^8.1.0",
-    "mocha": "^10.8.2",
+    "mocha": "^12.0.3",
     "typescript": "~4.7.0",
-    "gts": "^3.1.1"
+    "gts": "^7.0.0"
   },
   "dependencies": {
     "@microsoft/vscode-file-downloader-api": "^1.0.1"
